@@ -1,13 +1,9 @@
-# frontend-mentor-challenges
+# Frontend Mentor Challenges BE
+## go to website [Frontend Mentor Challenges BE]( https://frontend-mentor-projects-be.herokuapp.com/)
+<b>coded by [Boody-BE](https://github.com/Boody2004/week-days)</b>
 
+**HAVE FUN 👌**
+**Thanks, Abdelrahman-BE**
 
-
-
-
-
-
-<!-- My submissions for the Frontend Mentor Challenges
-
-See them live [here](https://fervent-mayer-36e64f.netlify.com/).
-
-Also, check out the [playlist](https://www.youtube.com/playlist?list=PLgBH1CvjOA63Xvt0BaeQ7zL4KXX96Wbgp) with all of the recordings. -->
+---
+![Design preview for the Profile card component coding challenge](./images/desktop-preview.jpg)
